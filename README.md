@@ -1,5 +1,5 @@
 # Blending Uniformity Determination using NIR spectrocopy
-
+---
 ## Background
 
 ### Purpose 
@@ -9,6 +9,8 @@
 ### Method
 - For the use of the NIR spectrometer to determine the blend uniformity, the **qualitative approach**  (trend analysis or rate of change procedure) is used: the “moving block standard deviation” (MBSD) and the “moving block F test”
 - **Tools**: A Near Infrared (NIR) spectrometer (SentroPAT BU II, Sentronic GmbH) is used to collect spectral data during the blending process and to assess blend uniformity
+
+![alt text](SentroPat2.png)
 
 ### Possibilities & Limitations 
 
@@ -39,8 +41,8 @@
 	- Scheduled day and time (note: at least 1 week ahead!)
 
 ## Procedure
-In order to request BU by NIR support, the request form (see [Request Form Title] (https://attache.abbvienet.com/hpi/search) has to be filled out.  
-All mandatory requirements are questioned within this form and further information are provided. 
+In order to request BU by NIR support, the request form (see [Request Form Title] (https://attache.abbvienet.com/hpi/search) has to be filled out. All mandatory requirements are questioned within this form and further information are provided. 
+___
 *Note: Time required for set-up and preparation of NIR measurement: at least **1 week** before scheduled day of blending*
 
 ## Output/Results 
@@ -58,11 +60,13 @@ All mandatory requirements are questioned within this form and further informati
 
 # SME(s)/NIR Team
 1. **LU:**
-- *Email iPAT NIR Team LU*: NIR_LU@abbvie.de
-- *SME’s*: Carmen Beckmann & Barbara Schönfeld & Frank Theil
+	- **Email iPAT NIR Team LU**: NIR_LU@abbvie.de
+	- **SME’s**: Carmen Beckmann & Barbara Schönfeld & Frank Theil
 2. **LC:**
-- *SME’s*: Gregory Doddridge & Jayanth Doddi
+	- **SME’s**: Gregory Doddridge & Jayanth Doddi
 
+***
 ## References
-1. BU/CU Guidance Document: [DPD-BP-0020] (https://attache.abbvienet.com/hpi/search)
-2. Guidance on the use of NIR for BU: [A-RDLU-000143] (https://attache.abbvienet.com/hpi/search)
+1. BU/CU Guidance Document: [DPD-BP-0020] (https://attache.abbvienet.com/hpi/viewOnlyQuery?paramName=dm_document&paramValue=dm_document&paramType=type/paramName=i_chronicle_id&paramValue=0900ab6a9ff1026c&paramType=property&operator=OPERATOR_EQUALS/paramName=status&paramValue=Approved&paramType=property&operator=OPERATOR_EQUALS )
+2. Guidance on the use of NIR for BU: [A-RDLU-000143] (https://attache.abbvienet.com/hpi/viewOnlyQuery?paramName=dm_document&paramValue=dm_document&paramType=type/paramName=i_chronicle_id&paramValue=0900ab6aa01680cc&paramType=property&operator=OPERATOR_EQUALS/paramName=status&paramValue=Effective&paramType=property&operator=OPERATOR_EQUALS)
+3. *Add references*
