@@ -5,29 +5,25 @@
 	     <meta charset="UTF-8">
 	     <title> Blend Uniformity Determination using NIR spectroscopy </title>
 	</head>
-	<body style="background-color: white; color: black>
 		<h1> Background </h1>
-		## Background
-		### Purpose
-			* <span style="color:black">some * In-line determination of powder blend homogeneity * text</span>
-			during the blending process using NIR spectroscopy as PAT tool
-			* <span style="color:black">some * Blending process monitoring and understanding * text</span>
-			by collecting NIR data over the whole blending process (including blending endpoint determination)
+	
+		<h2> Purpose </h2>
+			<p> ** In-line determination of powder blend homogeneity ** 
+			during the blending process using NIR spectroscopy as PAT tool </p>
+			<p> ** Blending process monitoring and understanding** by collecting NIR data over the whole blending 					process (including blending endpoint determination)
 
-		## Method
-			* •	For the use of the NIR spectrometer to determine the blend uniformity, the <span style="color:black"> qualitative approach* text</span> (trend analysis or rate of change procedure) is used: 
-				the “moving block standard deviation” (MBSD) and the “moving block F test” 
+		<h2> Method </h2>
+			<p> For the use of the NIR spectrometer to determine the blend uniformity, the **qualitative approach++ 				(trend analysis or rate of change procedure) is used: the “moving block standard deviation” (MBSD) and the “moving block F test”  </p>
+			<p> **Tools:** A Near Infrared (NIR) spectrometer (SentroPAT BU II, Sentronic GmbH) is used to collect spectral data during the blending process and to assess blend uniformity. </p>
 
-			* <span style="color:black">some * Tools: * text</span> A Near Infrared (NIR) spectrometer (SentroPAT BU II, Sentronic GmbH) is used to collect spectral data during the blending process and to assess blend uniformity.
+		<h2> Possibilities & Limitations </h2>
 
-		## Possibilities & Limitations
-
-			* Possibilities: 
+			1. Possibilities: 
 					 * In-line/Real-time and non-invasive method
 					 * Increased process understanding
 					 * Safe handling & Ressource Savings
 
-			* Limitations: 
+			1. Limitations: 
 
 					* Formulation-related Limitations: 
 						* No characteristic API band in the overall spectrum of all blending components
