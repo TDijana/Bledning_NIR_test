@@ -10,7 +10,10 @@
 - For the use of the NIR spectrometer to determine the blend uniformity, the **qualitative approach**  (trend analysis or rate of change procedure) is used: the “moving block standard deviation” (MBSD) and the “moving block F test”
 - **Tools**: A Near Infrared (NIR) spectrometer (SentroPAT BU II, Sentronic GmbH) is used to collect spectral data during the blending process and to assess blend uniformity
 
-![alt text](SentroPat2.png)
+SentroPat BU II
+![alt text](https://github.com/TDijana/Blending_NIR_test-/blob/master/SentroPat2.png) 
+img src="https://github.com/TDijana/Blending_NIR_test-/blob/master/SentroPat2.png" width="400" height="295.5"
+
 
 ### Possibilities & Limitations 
 
