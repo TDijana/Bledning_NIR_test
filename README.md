@@ -38,7 +38,7 @@ Formulation Detail
 - Scheduled day and time (note: at least 1 week ahead!)
 
 ## Procedure
-In order to request BU by NIR support, the request form (see [title] (https://example.com) has to be filled out. All mandatory requirements are questioned within this form and further information are provided. 
+In order to request BU by NIR support, the request form (see [Request Form Title] (https://attache.abbvienet.com/hpi/search) has to be filled out. All mandatory requirements are questioned within this form and further information are provided. 
 *Note: Time required for set-up and preparation of NIR measurement: at least **1 week** before scheduled day of blending*
 
 ## Output/Results 
@@ -56,11 +56,11 @@ In order to request BU by NIR support, the request form (see [title] (https://ex
 
 # SME(s)/NIR Team
 **1. LU:**
-*Email iPAT NIR Team LU:* NIR_LU@abbvie.de
-*SME‘s:*Carmen Beckmann & Barbara Schönfeld & Frank Theil
+- *Email iPAT NIR Team LU*: NIR_LU@abbvie.de
+- *SME’s*: Carmen Beckmann & Barbara Schönfeld & Frank Theil
 **2. LC:**
-*SME’s:</b> Gregory Doddridge & Jayanth Doddi
+- *SME’s*: Gregory Doddridge & Jayanth Doddi
 
 ## References
-1. BU/CU guidance document: [DPD-BP-0020] (https://attache.abbvienet.com/hpi/search)
+1. BU/CU Guidance Document: [DPD-BP-0020] (https://attache.abbvienet.com/hpi/search)
 2. Guidance on the use of NIR for BU: [A-RDLU-000143] (https://attache.abbvienet.com/hpi/search)
