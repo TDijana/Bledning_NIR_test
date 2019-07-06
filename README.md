@@ -8,20 +8,19 @@
 		<h1> Background </h1>
 	
 		<h2> Purpose </h2>
-			<p> ** In-line determination of powder blend homogeneity ** 
-			during the blending process using NIR spectroscopy as PAT tool </p>
-			<p> ** Blending process monitoring and understanding** by collecting NIR data over the whole blending 					process (including blending endpoint determination)
+		**In-line determination of powder blend homogeneity** during the blending process using NIR spectroscopy as PAT tool
+		** Blending process monitoring and understanding** by collecting NIR data over the whole blending 					process (including blending endpoint determination)
 
 		<h2> Method </h2>
-			<p> For the use of the NIR spectrometer to determine the blend uniformity, the **qualitative approach++ 				(trend analysis or rate of change procedure) is used: the “moving block standard deviation” (MBSD) and the “moving block F test”  </p>
-			<p> **Tools:** A Near Infrared (NIR) spectrometer (SentroPAT BU II, Sentronic GmbH) is used to collect spectral data during the blending process and to assess blend uniformity. </p>
+		> 1. For the use of the NIR spectrometer to determine the blend uniformity, the **qualitative approach**			(trend analysis or rate of change procedure) is used: the “moving block standard deviation” (MBSD) and the “moving block F test” 
+		> 2. **Tools:** A Near Infrared (NIR) spectrometer (SentroPAT BU II, Sentronic GmbH) is used to collect spectral data during the blending process and to assess blend uniformity. 
 
 		<h2> Possibilities & Limitations </h2>
 
-			1. Possibilities: 
-					 * In-line/Real-time and non-invasive method
-					 * Increased process understanding
-					 * Safe handling & Ressource Savings
+			> 1. Possibilities: 
+				1. In-line/Real-time and non-invasive method
+				2. Increased process understanding	
+				3. Safe handling & Ressource Savings
 
 			1. Limitations: 
 
@@ -42,9 +41,9 @@
 
 		<p> In order to request BU by NIR support, the request form (see XXX) has to be filled out. All mandatory requirements are questioned within this form and further information are provided. </p>
 
-		* Note: Time required for set-up and preparation of NIR measurement: at least **1 week** before scheduled day of blending *
+		_Note: Time required for set-up and preparation of NIR measurement: at least **1 week** before scheduled day of blending_
 
-		### Output/Results 
+		<h2> *Output/Results* </h2>
 
 		1. o	•	Blend Uniformity Report including among other information:
 						* Formulation Details
@@ -58,14 +57,13 @@
 						* Report will be uploaded to attache 
 						* *Document numbers of report will be added to request*
 
-		### SME(s)/NIR Team
+		#SME(s)/NIR Team
 
-					* 	LU: 
+				1. LU: 
+					* Email iPAT NIR Team LU:    NIR_LU@abbvie.com
+					* SME‘s: Carmen Beckmann & Barbara Schönfeld & Frank Theil
 
-						* Email iPAT NIR Team LU:    NIR_LU@abbvie.com
-						* SME‘s: Carmen Beckmann & Barbara Schönfeld & Frank Theil
-
-					* LC:
+					2. LC:
 
 						* Email *[to come]*
 						* SME’s: Gregory Doddridge & Jayanth Doddi 
