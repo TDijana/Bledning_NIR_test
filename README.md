@@ -1,7 +1,5 @@
-# Blending_NIR_test
-Blend Uniformity Determination by NIR
+# Blending Uniformity Determination using NIR spectrocopy
 
-<!DOCTYPE html>
 <html lang="en">
 	<head>
 	     <meta charset="UTF-8">
