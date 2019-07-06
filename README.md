@@ -62,10 +62,10 @@ ___
 - *Document numbers of report will be added to request*
 
 # SME(s)/NIR Team
-1. **LU:**
+- **LU:**
 	- **Email iPAT NIR Team LU**: NIR_LU@abbvie.de
 	- **SME’s**: Carmen Beckmann & Barbara Schönfeld & Frank Theil
-2. **LC:**
+- **LC:**
 	- **SME’s**: Gregory Doddridge & Jayanth Doddi
 
 ***
