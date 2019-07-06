@@ -1,15 +1,16 @@
 # Blending Uniformity Determination using NIR spectrocopy
 
 ## Background
-	## Purpose 
-	- **In-line determination of powder blend homogeneity** during the blending process using NIR spectroscopy as PAT tool
-	- **Blending process monitoring and understanding by collecting NIR data over the whole blending 					process (including blending endpoint determination)
 
-## Method
+### Purpose 
+- **In-line determination of powder blend homogeneity** during the blending process using NIR spectroscopy as PAT tool
+- **Blending process monitoring and understanding** by collecting NIR data over the whole blending 					process (including blending endpoint determination)
+
+### Method
 - For the use of the NIR spectrometer to determine the blend uniformity, the **qualitative approach**  (trend analysis or rate of change procedure) is used: the “moving block standard deviation” (MBSD) and the “moving block F test”
 	- **Tools**: A Near Infrared (NIR) spectrometer (SentroPAT BU II, Sentronic GmbH) is used to collect spectral data during the blending process and to assess blend uniformity
 
-## Possibilities & Limitations 
+### Possibilities & Limitations 
 
 1. Possibilities:
 - In-line/Real-time and non-invasive method 
@@ -26,7 +27,7 @@
 - Blender type not suitable (e.g. Turbula Blender) 
 
 ## Input/ Procedure 
-**Input: Requirements before measurement**
+### Input: Requirements before measurement
 Formulation Detail
 1. Composition (qualitative and quantitative)
 - Batch Size (in kg)
@@ -38,7 +39,7 @@ Formulation Detail
 
 ## Procedure
 In order to request BU by NIR support, the request form (see [title] (https://example.com) has to be filled out. All mandatory requirements are questioned within this form and further information are provided. 
-* Note: Time required for set-up and preparation of NIR measurement: at least **1 week** before scheduled day of blending
+*Note: Time required for set-up and preparation of NIR measurement: at least **1 week** before scheduled day of blending*
 
 ## Output/Results 
 **Blend Uniformity Report including among other information:**
