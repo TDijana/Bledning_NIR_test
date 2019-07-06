@@ -11,9 +11,8 @@
 - **Tools**: A Near Infrared (NIR) spectrometer (SentroPAT BU II, Sentronic GmbH) is used to collect spectral data during the blending process and to assess blend uniformity
 
 SentroPat BU II
-![alt text](https://github.com/TDijana/Blending_NIR_test-/blob/master/SentroPat2.png) 
-img src="https://github.com/TDijana/Blending_NIR_test-/blob/master/SentroPat2.png" width="400" height="295.5"
-
+![alt text](https://github.com/TDijana/Blending_NIR_test-/blob/master/SentroPatII.PNG) 
+***
 
 ### Possibilities & Limitations 
 
