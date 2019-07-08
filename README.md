@@ -1,4 +1,4 @@
-# Blending Uniformity Determination using NIR spectrocopy
+# Blending Uniformity Determination using NIR spectroscopy
 ---
 ## Background
 
